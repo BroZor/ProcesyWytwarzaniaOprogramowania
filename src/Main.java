@@ -6,6 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         System.out.println("Hello World2");
+        System.out.println("nowy commit feat/login 2");
         System.out.println("Hello World123");
 
         for (int i = 1; i <= 5; i++) {
